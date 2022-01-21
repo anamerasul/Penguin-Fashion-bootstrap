@@ -117,6 +117,35 @@ color: #3E3E3E;
 }
 
 
+.extra-things-img-content{
+    width: 100%;
+height: auto;
+
+background: #FFFFFF;
+box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+border-radius: 20px;
+}
+.extra-things-content h6{
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 1.5rem;
+
+color: #363958;
+}
+
+.extra-things-content p{
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 1rem;
+/* or 162% */
+
+
+color: #3E3E3E;
+}
+
 
 
 
