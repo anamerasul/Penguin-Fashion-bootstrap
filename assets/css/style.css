@@ -1,0 +1,79 @@
+/* font bebas neue */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+/* universal style */
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Bebas Neue', cursive;
+}
+
+/* common css */
+body{
+    overflow-x:hidden;
+}
+
+/* header part */
+.header{
+    background-color: #FFFBF0;
+}
+/* nav part */
+
+ul.navbar-nav>li.nav-item >a.nav-link{
+font-size: 1em;
+font-style: normal;
+font-weight: 500;
+line-height: 1.5em;
+letter-spacing: 0em;
+text-align: left;
+color: #3C3C3C;
+font-family:Roboto;
+
+
+}
+
+
+/* banner part */
+
+.banner-title-para-button h1{
+    line-height: em;
+}
+
+.banner-title-para-button h1 span{
+    color: #FABE4C;
+    ;
+}
+
+
+.banner-title-para-button p{
+font-family: Roboto;
+font-size: 16px;
+text-align: left;
+color:#3E3E3E;
+
+
+}
+
+.banner-title-para-button a{
+    /* width: 170px;
+    height: 60px; */
+    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+    font-family: Roboto;
+    border-radius: 10px!important;
+    
+
+}
+
+.banner-title-para-button a.btn:focus{
+    border: 1px solid transparent;
+    outline: none;
+    box-shadow: none;
+}
+
+
+
+
+
+
+
